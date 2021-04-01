@@ -1,4 +1,4 @@
-# 努力就会能达成所愿
+# 努力
 
 def dfs(arr,depth):
     for i in range(len(arr[depth])):
